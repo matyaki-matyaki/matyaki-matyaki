@@ -8,6 +8,7 @@
 - Computer Vision （画像処理）
 - Graph Signal Processing （グラフ信号処理）
 - Bayesian Optimization （ベイズ最適化）
+- Web3.0
 
 <!--
 **matyaki-matyaki/matyaki-matyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
