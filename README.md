@@ -7,6 +7,7 @@
 - Signal Processing (信号処理)
 - Computer Vision （画像処理）
 - Graph Signal Processing （グラフ信号処理）
+- Graph Neural Networks （グラフニューラルネットワーク）
 - Bayesian Optimization （ベイズ最適化）
 - Web3.0
 
